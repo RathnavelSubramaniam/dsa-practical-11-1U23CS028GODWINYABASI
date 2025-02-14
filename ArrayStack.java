@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class ArrayStack {
     protected int capacity;
     protected int[] stack;
